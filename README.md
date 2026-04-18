@@ -13,6 +13,14 @@ hi im farzad, im a small developer on the internet making godot games and minecr
 - art
 
 
+### i use these tools for my work :
+- obsidian
+- intellij idea
+- godot engine
+- blockbench
+- asesprite
+- clip studio paint (started recently)
+
 
 
 <!--
