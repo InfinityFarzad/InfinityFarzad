@@ -1,4 +1,19 @@
-## Hi there 👋
+## WHY ARE YOU ROTATING LIKE THAT?!?!!? - farzad
+hi im farzad, im a small developer on the internet making godot games and minecraft mods
+
+### codes in :
+- java
+- python (sometimes)
+- godot
+- glsl (sometimes)
+
+### im currently learning :
+- game development
+- shaders
+- art
+
+
+
 
 <!--
 **InfinityFarzad/InfinityFarzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
