@@ -1,27 +1,34 @@
-## WHY ARE YOU ROTATING LIKE THAT?!?!!? - farzad
-hi im farzad, im a small developer on the internet making godot games and minecraft mods
+hi im farzad, im a small developer on the internet making godot games, minecraft mods and random art
 
-### codes in :
+### info 
+pronouns - he/they,
+
+other names : farz, farzad, infinity.
+
+social media : bluesky, yt, modrinth, discord
+
+**codes in** :
 - java
 - python (sometimes)
 - godot
 - glsl (sometimes)
 
-### im currently learning :
+**im currently learning** :
 - game development
 - shaders
 - art
 
 
-### i use these tools for my work :
+**i use these tools for my work** :
 - obsidian
 - intellij idea
 - godot engine
 - blockbench
 - asesprite
 - clip studio paint (started recently)
+- audacity
 
-
+## WHY ARE YOU ROTATING LIKE THAT?!?!!? - farzad
 
 <!--
 **InfinityFarzad/InfinityFarzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
